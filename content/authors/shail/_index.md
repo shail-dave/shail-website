@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include compiler optimzations, computer architecture, and machine learning hardware accelerators.
+bio: My research interests include compiler optimizations, computer architecture, and machine learning hardware accelerators.
 
 interests:
 - Coarse-Grained Reconfigurable Accelerators
