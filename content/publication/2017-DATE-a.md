@@ -1,10 +1,10 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "Sample"
 authors: [sample]
 date: {{ 2017 }}
 doi: ""
+
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 # Schedule page publish date (NOT publication's date).
 publishDate: {{ 2017 }}
