@@ -31,9 +31,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2017 Em-Dash Present
+  - course: PhD in Computer Engineering
+    institution: Arizona State University
+    year: 2017 -- Present
   - course: MS in Computer Engineering
     institution: Arizona State University
     year: 2016
