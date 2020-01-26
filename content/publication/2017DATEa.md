@@ -1,7 +1,7 @@
 ---
 title: "URECA: A Compiler Solution to Manage Unified Register File for CGRAs"
 # authors: ["Shail Dave", "Mahesh Balasubramanian", "Aviral Shrivastava"]
-date: 2018-03
+date: 2018-03-19
 doi: "10.23919/DATE.2018.8342172"
 
 # Shail Dave, Mahesh Balasubramanian, Aviral Shrivastava, "", in Proceedings of the 21st International Conference on Design Automation and Test in Europe (DATE), 2018 [Paper] [Slides] (acceptance rate:  185/766 = 24%)
