@@ -4,7 +4,7 @@ title: "URECA: A Compiler Solution to Manage Unified Register File for CGRAs"
 date: 2018-03
 doi: "10.23919/DATE.2018.8342172"
 
-Shail Dave, Mahesh Balasubramanian, Aviral Shrivastava, "", in Proceedings of the 21st International Conference on Design Automation and Test in Europe (DATE), 2018 [Paper] [Slides] (acceptance rate:  185/766 = 24%)
+# Shail Dave, Mahesh Balasubramanian, Aviral Shrivastava, "", in Proceedings of the 21st International Conference on Design Automation and Test in Europe (DATE), 2018 [Paper] [Slides] (acceptance rate:  185/766 = 24%)
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 # Schedule page publish date (NOT publication's date).
@@ -17,8 +17,8 @@ Shail Dave, Mahesh Balasubramanian, Aviral Shrivastava, "", in Proceedings of th
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-# publication: ""
-# publication_short: ""
+# publication: "21st International Conference on Design Automation and Test in Europe"
+# publication_short: "DATE"
 
 abstract: "Coarse-grained reconfigurable array (CGRA) is a
 promising solution to accelerate loops featuring loop-carried
